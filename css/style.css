@@ -579,7 +579,7 @@ section.home-banner .carousel-item img {
     font-size: 13px;
 }
 section.home-banner .carousel-item img {
-    height: 100vh;
+    height: 75vh;
     object-fit: cover;
     object-position: 20% 100%;
 }
