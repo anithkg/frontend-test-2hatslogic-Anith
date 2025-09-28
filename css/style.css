@@ -523,6 +523,9 @@ section.home-banner .carousel-item img {
 .menu-top .navbar-top {
     padding: 0rem 0rem 0rem 0rem;
 }
+.menu-top .navbar-nav .nav-link{
+	margin: 0;
+}
 }
 
 
@@ -555,9 +558,9 @@ section.home-banner .carousel-item img {
 
 
 @media (max-width:575.90px){
-.menu-top .right-icons, .menu-top .left-icons {
+/*.menu-top .right-icons, .menu-top .left-icons {
     display: none !important;
-}
+}*/
 .menu-top .navbar-brand {
     margin: 0 !important;
 }
@@ -583,4 +586,5 @@ section.home-banner .carousel-item img {
     object-fit: cover;
     object-position: 20% 100%;
 }
+
 }
