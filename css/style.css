@@ -563,6 +563,7 @@ section.home-banner .carousel-item img {
 }*/
 .menu-top .navbar-brand {
     margin: 0 !important;
+    order: -1;
 }
 .footer-logo { 
 	font-size: 1.75rem; 
@@ -586,5 +587,7 @@ section.home-banner .carousel-item img {
     object-fit: cover;
     object-position: 20% 100%;
 }
-
+.menu-top .navbar-toggler {
+    order: 2;
+}
 }
