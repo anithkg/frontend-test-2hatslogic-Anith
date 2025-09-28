@@ -136,7 +136,8 @@ img
     -o-transition: all 0.3s ease;
     transition: all 0.3s ease;
     z-index: 9999;
-    border-radius: 30px;    
+    border-radius: 30px;   
+	border: 1px solid #3d3d3d;     
 }
 #return-to-top i {
     color: #fff;
